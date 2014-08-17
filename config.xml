@@ -17,6 +17,8 @@
       Scott Kaplan
     </author>
 
-    <!-- We'll include the Barcode plugin as an example -->
+    <!-- 
     <gap:plugin name="com.phonegap.plugins.device" />
+    -->
+    <gap:plugin name="org.apache.cordova.device" />
 </widget>
